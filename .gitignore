@@ -1,0 +1,7 @@
+.idea/
+cashier.egg-info/
+cashier/__pycache__/
+cashier/cashier.db
+cashier/static/images/
+run.sh
+cashier/static/jquery-3.2.1.min.js
